@@ -3,7 +3,7 @@
 
 import sys
 import click
-import anthropib
+import anthropic
 
 SYSTEM_PROMPT = """You are an expert QA engineer and test case designer. Your job is to analyze software requirements and generate comprehensive manual test cases that provide thorough coverage.
 
